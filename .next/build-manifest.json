@@ -12,6 +12,11 @@
   ],
   "rootMainFiles": [],
   "pages": {
+    "/AboutPage": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/AboutPage.js"
+    ],
     "/AboutPage/[AboutId]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
